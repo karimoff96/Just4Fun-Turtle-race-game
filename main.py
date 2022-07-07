@@ -1,4 +1,3 @@
-# before running install turtle
 from turtle import Turtle, Screen
 import random
 
